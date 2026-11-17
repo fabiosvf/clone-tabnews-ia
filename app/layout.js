@@ -1,4 +1,4 @@
-export const metadata = { title: "Nomes" };
+export const metadata = { title: "TabNews - Em Construção" };
 
 export default function RootLayout({ children }) {
   return (
