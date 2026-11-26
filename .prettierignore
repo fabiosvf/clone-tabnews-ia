@@ -1,0 +1,7 @@
+# Skills de terceiros instaladas para agentes de IA
+.agents
+.claude
+
+# Arquivos gerados automaticamente
+package-lock.json
+skills-lock.json

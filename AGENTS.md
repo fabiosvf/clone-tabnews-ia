@@ -17,3 +17,6 @@ Repositório: https://github.com/fabiosvf/clone-tabnews-ia
 - `npm run dev` — servidor de desenvolvimento
 - `npm run build` — build de produção
 - `npm start` — servir o build de produção
+- `npm run lint` — verificar o código com ESLint
+- `npm run format` — formatar o código com Prettier
+- `npm run format:check` — verificar a formatação sem alterar arquivos
